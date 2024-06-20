@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Treio1024/Treio1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+# Hello!
+#
+Dev iniciante focado em back-end e se possivel game dev
+# Linguagens📚
+![lua c](https://github.com/Treio1024/Treio1024/assets/160870426/5894d74f-3cba-4770-9156-158c2a0987d8)
+# Futuros estudos📖
+![java](https://github.com/Treio1024/Treio1024/assets/160870426/7dbcd68e-3ec1-4af7-8553-15f4dee68bca)
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treio1024&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treio1024&layout=compact&theme=radical)
