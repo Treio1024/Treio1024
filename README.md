@@ -1,5 +1,4 @@
 # Hello!
-#
 Dev iniciante focado em back-end e se possivel game dev
 # Linguagens📚
 ![lua c](https://github.com/Treio1024/Treio1024/assets/160870426/5894d74f-3cba-4770-9156-158c2a0987d8)
