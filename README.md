@@ -1,4 +1,3 @@
-#
 # Hello!
 #
 Dev iniciante focado em back-end e se possivel game dev
